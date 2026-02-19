@@ -1,46 +1,74 @@
-## 🌟 About Me:
+<h1 align="center">Hi 👋, I'm Vishnu</h1>
 
-Hey! I'm Vishnu, a B.Tech student at Amrita Vishwa Vidyapeetham with strong interest in:
-
-🧠 Data Structures & Problem Solving  
-🤖 Artificial Intelligence & Generative AI  
-🌐 Full Stack Development  
-
-Focused on building intelligent and scalable systems using Algorithms + AI.
+<h3 align="center">
+Problem Solver • DSA Enthusiast • AI & Generative AI Explorer • Full Stack Developer
+</h3>
 
 ---
 
-## 🌐 Socials:
+## 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishnu Vardhan Podapati)
-
----
-
-## 💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv)
-
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql)
+🎓 B.Tech Student at Amrita Vishwa Vidyapeetham  
+💡 Passionate about solving real-world problems using **DSA & AI**  
+🤖 Exploring **Generative AI + Intelligent Systems**  
+⚡ Strong interest in combining **Algorithms + AI + Scalable Development**
 
 ---
 
-## 📊 GitHub Stats:
+## 🚀 What I'm Currently Doing
 
-![](https://github-readme-stats.vercel.app/api?username=vishnucaptain&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=vishnucaptain&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnucaptain&theme=dark&layout=compact)
+- 🧩 Practicing Data Structures & Algorithms  
+- 🤖 Learning & Building with Generative AI  
+- 🌐 Developing Full Stack Applications  
+- 🧠 Exploring AI-powered problem solving  
+
+---
+
+## 🎯 Focus Areas
+
+- Problem Solving
+- Competitive Programming
+- Artificial Intelligence
+- Generative AI
+- Scalable Backend Systems
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vishnu-vardhan-podapati-04628b2a7/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+## ⚙️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,fastapi,mysql,postgres,opencv,sklearn" />
+</p>
+
+---
+
+## 💻 Development Stack
+
+### Frontend
+React • HTML • CSS • Bootstrap  
+
+### Backend
+Node.js • Express • FastAPI  
+
+### AI & Data
+NumPy • Pandas • OpenCV • Scikit-learn  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vishnucaptain&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnucaptain&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnucaptain&layout=compact&theme=tokyonight" />
+</p>
